@@ -1,7 +1,12 @@
-# i-tv: versões
+# GoatTV: versões
 
-APKs da **i-tv**, um player de TV em direto para Android TV.
-A app procura aqui as versões novas sozinha (Definições → Atualizar).
+APKs da **GoatTV**, um player de TV em direto para Android TV.
 
-Para instalar pela primeira vez numa TV: descarrega o `.apk` do release mais recente
-(por exemplo com a app *Downloader*) e abre-o.
+## Instalar
+
+Na app **Downloader**, escreve o código **6930346** (ou abre `aftv.news/6930346`).
+Instala sempre a versão mais recente.
+
+Link direto: https://github.com/iamSlokker/i-tv-releases/releases/latest/download/goattv.apk
+
+Depois de instalada, a app procura versões novas sozinha (Definições → Atualizar).
