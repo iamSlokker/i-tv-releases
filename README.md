@@ -1,12 +1,5 @@
-# GoatTV: versões
+# GoatTV: versões antigas
 
-APKs da **GoatTV**, um player de TV em direto para Android TV.
+A GoatTV mudou-se para **https://github.com/GOAThings/GoatTV**, onde estão o código (GPL-3) e as versões novas.
 
-## Instalar
-
-Na app **Downloader**, escreve o código **6930346** (ou abre `aftv.news/6930346`).
-Instala sempre a versão mais recente.
-
-Link direto: https://github.com/iamSlokker/i-tv-releases/releases/latest/download/goattv.apk
-
-Depois de instalada, a app procura versões novas sozinha (Definições → Atualizar).
+Instalar a versão mais recente: https://github.com/GOAThings/GoatTV/releases/latest/download/goattv.apk
